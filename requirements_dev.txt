@@ -1,5 +1,5 @@
 pip==10.0.1
-bump2version==0.5.8
+bump2version==0.5.11
 wheel==0.31.0
 flake8==3.5.0
 tox==3.0.0
